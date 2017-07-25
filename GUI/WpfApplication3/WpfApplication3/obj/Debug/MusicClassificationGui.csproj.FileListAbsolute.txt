@@ -1,0 +1,558 @@
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.baml
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.g.cs
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Dropbox\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.baml
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.g.cs
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+D:\Dropbox\FinalProject\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.baml
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.g.cs
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\lironel\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.baml
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.g.cs
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.baml
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\UserControl1.g.cs
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\liri\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.xml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DataGridStyle.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DiskControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DiskControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+C:\Users\Shay\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\Shay\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+C:\Users\leviis\Desktop\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe.CodeAnalysisLog.xml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe.lastcodeanalysissucceeded
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\leviis\Desktop\1\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\arad\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.exe
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.pdb
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.exe
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationGui.pdb
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\NAudio.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\taglib-sharp.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\MusicClassificationBL.pdb
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.csprojResolveAssemblyReference.cache
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\AutoPlaylist.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Clustering.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\CutStyle.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\PlayButtonStyle.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Simple Styles.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\BPM.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DickControl.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\Volume_and_BalanceControl.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_Content.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.cache
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui_MarkupCompile.lref
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\App.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\DockPanel.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\FilesManagerControl.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongDataControl.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\SongsFileBrowser.baml
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\GUI\WpfApplication3\WpfApplication3\obj\Debug\MusicClassificationGui.g.resources

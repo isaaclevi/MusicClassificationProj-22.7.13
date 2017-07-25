@@ -1,0 +1,4 @@
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Release\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Release\NAudioTest.Form1.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Release\NAudioTest.Properties.Resources.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Release\NAudioTest.csproj.GenerateResource.Cache

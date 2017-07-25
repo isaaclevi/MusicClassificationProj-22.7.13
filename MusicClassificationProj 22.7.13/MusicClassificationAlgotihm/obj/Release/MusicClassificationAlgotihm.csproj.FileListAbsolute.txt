@@ -1,0 +1,5 @@
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Release\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Release\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Release\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Release\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Release\MusicClassificationAlgotihm.pdb

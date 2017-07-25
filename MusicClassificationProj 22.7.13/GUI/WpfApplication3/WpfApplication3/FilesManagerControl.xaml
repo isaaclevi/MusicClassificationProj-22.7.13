@@ -1,0 +1,221 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:MusicClassificationGui"
+    xmlns:BL="clr-namespace:MusicClassificationBL;assembly=MusicClassificationBL"
+    xmlns:data ="clr-namespace:MusicClassificationGui.ViewModel"
+	xmlns:Microsoft_Windows_Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero"
+	mc:Ignorable="d"
+	x:Class="MusicClassificationGui.FilesManagerControl"
+	x:Name="FileManagerControl"
+	d:DesignWidth="1422.531" d:DesignHeight="186.8" BorderThickness="3" BorderBrush="#FF919191" Background="#FF919090">
+	<UserControl.Resources>
+        
+        <BL:SongPropList x:Key="PlayList"/>
+		<Style x:Key="TreeViewItemFocusVisual">
+			<Setter Property="Control.Template">
+				<Setter.Value>
+					<ControlTemplate>
+						<Rectangle/>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<PathGeometry x:Key="TreeArrow" Figures="M0,0 L0,6 L6,0 z"/>
+		<Style x:Key="ExpandCollapseToggleStyle" TargetType="{x:Type ToggleButton}">
+			<Setter Property="Focusable" Value="False"/>
+			<Setter Property="Width" Value="16"/>
+			<Setter Property="Height" Value="16"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type ToggleButton}">
+						<Border Background="Transparent" Height="16" Padding="5,5,5,5" Width="16">
+							<Path x:Name="ExpandPath" Data="{StaticResource TreeArrow}" Fill="Transparent" Stroke="#FF989898">
+								<Path.RenderTransform>
+									<RotateTransform Angle="135" CenterY="3" CenterX="3"/>
+								</Path.RenderTransform>
+							</Path>
+						</Border>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsMouseOver" Value="True">
+								<Setter Property="Stroke" TargetName="ExpandPath" Value="#FF1BBBFA"/>
+								<Setter Property="Fill" TargetName="ExpandPath" Value="Transparent"/>
+							</Trigger>
+							<Trigger Property="IsChecked" Value="True">
+								<Setter Property="RenderTransform" TargetName="ExpandPath">
+									<Setter.Value>
+										<RotateTransform Angle="180" CenterY="3" CenterX="3"/>
+									</Setter.Value>
+								</Setter>
+								<Setter Property="Fill" TargetName="ExpandPath" Value="#FF595959"/>
+								<Setter Property="Stroke" TargetName="ExpandPath" Value="#FF262626"/>
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="TreeViewItemStyle1" TargetType="{x:Type TreeViewItem}">
+			<Setter Property="Background" Value="Transparent"/>
+			<Setter Property="HorizontalContentAlignment" Value="{Binding HorizontalContentAlignment, RelativeSource={RelativeSource AncestorType={x:Type ItemsControl}}}"/>
+			<Setter Property="VerticalContentAlignment" Value="{Binding VerticalContentAlignment, RelativeSource={RelativeSource AncestorType={x:Type ItemsControl}}}"/>
+			<Setter Property="Padding" Value="1,0,0,0"/>
+			<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+			<Setter Property="FocusVisualStyle" Value="{StaticResource TreeViewItemFocusVisual}"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type TreeViewItem}">
+						<Grid>
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition MinWidth="19" Width="Auto"/>
+								<ColumnDefinition Width="Auto"/>
+								<ColumnDefinition Width="*"/>
+							</Grid.ColumnDefinitions>
+							<Grid.RowDefinitions>
+								<RowDefinition Height="Auto"/>
+								<RowDefinition/>
+							</Grid.RowDefinitions>
+							<ToggleButton x:Name="Expander" ClickMode="Press" IsChecked="{Binding IsExpanded, RelativeSource={RelativeSource TemplatedParent}}" Style="{StaticResource ExpandCollapseToggleStyle}" Background="Black" BorderThickness="0" BorderBrush="#FF040202" Width="20" Height="20"/>
+							<Border x:Name="Bd" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Grid.Column="1" Padding="{TemplateBinding Padding}" SnapsToDevicePixels="true">
+								<ContentPresenter x:Name="PART_Header" ContentSource="Header" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+							</Border>
+							<ItemsPresenter x:Name="ItemsHost" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsExpanded" Value="false">
+								<Setter Property="Visibility" TargetName="ItemsHost" Value="Collapsed"/>
+							</Trigger>
+							<Trigger Property="HasItems" Value="false">
+								<Setter Property="Visibility" TargetName="Expander" Value="Hidden"/>
+							</Trigger>
+							<Trigger Property="IsSelected" Value="true">
+								<Setter Property="Background" TargetName="Bd" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+								<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.HighlightTextBrushKey}}"/>
+							</Trigger>
+							<MultiTrigger>
+								<MultiTrigger.Conditions>
+									<Condition Property="IsSelected" Value="true"/>
+									<Condition Property="IsSelectionActive" Value="false"/>
+								</MultiTrigger.Conditions>
+								<Setter Property="Background" TargetName="Bd" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+								<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+							</MultiTrigger>
+							<Trigger Property="IsEnabled" Value="false">
+								<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}"/>
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<DataTemplate x:Key="DataTemplate1">
+			<Grid/>
+		</DataTemplate>
+		<Style x:Key="ButtonFocusVisual">
+			<Setter Property="Control.Template">
+				<Setter.Value>
+					<ControlTemplate>
+						<Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" StrokeThickness="1" StrokeDashArray="1 2"/>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<LinearGradientBrush x:Key="ButtonNormalBackground" EndPoint="0,1" StartPoint="0,0">
+			<GradientStop Color="#F3F3F3" Offset="0"/>
+			<GradientStop Color="#EBEBEB" Offset="0.5"/>
+			<GradientStop Color="#DDDDDD" Offset="0.5"/>
+			<GradientStop Color="#CDCDCD" Offset="1"/>
+		</LinearGradientBrush>
+		<SolidColorBrush x:Key="ButtonNormalBorder" Color="#FF707070"/>
+		<Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+			<Setter Property="FocusVisualStyle" Value="{StaticResource ButtonFocusVisual}"/>
+			<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+			<Setter Property="BorderBrush" Value="{StaticResource ButtonNormalBorder}"/>
+			<Setter Property="BorderThickness" Value="1"/>
+			<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+			<Setter Property="HorizontalContentAlignment" Value="Center"/>
+			<Setter Property="VerticalContentAlignment" Value="Center"/>
+			<Setter Property="Padding" Value="1"/>
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsKeyboardFocused" Value="true"/>
+							<Trigger Property="ToggleButton.IsChecked" Value="true"/>
+							<Trigger Property="IsEnabled" Value="false">
+								<Setter Property="Foreground" Value="#ADADAD"/>
+							</Trigger>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+	</UserControl.Resources>
+
+
+    <Grid x:Name="LayoutRoot" DataContext="{Binding Source={StaticResource PlayList}}">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="0.666*"/>
+			<ColumnDefinition Width="0.017*"/>
+			<ColumnDefinition Width="0.317*"/>
+		</Grid.ColumnDefinitions>
+        <local:SongsFileBrowser x:Name="SongsFileBrower" Margin="0" d:LayoutOverrides="Height"/>
+        <DataGrid x:Name="dgPlayList" Grid.Column="2" SelectionMode="Single" ItemsSource="{Binding}"  Margin="0" AllowDrop="True"  Background="{x:Null}" AutoGenerateColumns="False" Drop="dgPlayList_Drop" PreviewMouseLeftButtonDown="dgPlayList_PreviewMouseLeftButtonDown" PreviewMouseMove="dgPlayList_PreviewMouseMove" d:LayoutOverrides="GridBox" IsReadOnly="False">
+            
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="Grid_DoubleClick"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsSelected"
+                        Value="True">
+                            <Setter Property="Background"
+                        Value="Yellow" />
+                            
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.RowStyle>
+            <DataGrid.ContextMenu>
+                <ContextMenu HorizontalContentAlignment="Stretch" Padding="7,2,2,2">
+                    <MenuItem Header="Column" Cursor="None">
+                        <MenuItem Header="Name" IsCheckable="True"/>
+                        <MenuItem Header="Title" IsCheckable="True"/>
+                        <MenuItem Header="Artist" IsCheckable="True"/>
+                        <MenuItem Header="Album" IsCheckable="True"/>
+                        <MenuItem Header="Genre" IsCheckable="True"/>
+                        <MenuItem Header="Year" IsCheckable="True"/>
+                        <MenuItem Header="BeatsPerMinute" IsCheckable="True"/>
+                        <MenuItem Header="Comment" IsCheckable="True"/>
+                        <MenuItem Header="AudioBitrate" IsCheckable="True"/>
+                        <MenuItem Header="AudioSampleRate" IsCheckable="True"/>
+                    </MenuItem>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name,Mode=OneWay}" Header="Name" />
+                <DataGridTextColumn Binding="{Binding Duration,Mode=OneWay}" Header="Duration"/>
+                <DataGridTextColumn Binding="{Binding Title,Mode=OneWay}" Header="Title"/>
+                <DataGridTextColumn Binding="{Binding Artist,Mode=OneWay}" Header="Artist"/>
+                <DataGridTextColumn Binding="{Binding Album,Mode=OneWay}" Header="Album"/>
+                <DataGridTextColumn Binding="{Binding Genre,Mode=OneWay}" Header="Genre"/>
+                <DataGridTextColumn Binding="{Binding Year,Mode=OneWay}" Header="Year"/>
+                <DataGridTextColumn Binding="{Binding BeatsPerMinute,Mode=OneWay}" Header="BeatsPerMinute"/>
+                <DataGridTextColumn Binding="{Binding Comment,Mode=OneWay}" Header="Comment"/>
+                <DataGridTextColumn Binding="{Binding AudioBitrate,Mode=OneWay}" Header="AudioBitrate"/>
+                <DataGridTextColumn Binding="{Binding AudioSampleRate,Mode=OneWay}" Header="AudioSampleRate"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Grid.Column="1" Margin="0">
+        	<Grid.RowDefinitions>
+        		<RowDefinition Height="49"/>
+        		<RowDefinition Height="0.15*"/>
+        		<RowDefinition Height="0.176*"/>
+        		<RowDefinition Height="0.674*"/>
+        	</Grid.RowDefinitions>
+        	<Button x:Name="AutoPlaylist" Content="Button" RenderTransformOrigin="0.523,1.867" Grid.Row="1" Style="{DynamicResource AutoPlaylist}" Click="AutoPlaylist_Click"/>
+        	<Button x:Name="clustering" Content="Button" Margin="0" Grid.Row="2" Style="{DynamicResource Clustering}" VerticalAlignment="Top" Click="clustering_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>

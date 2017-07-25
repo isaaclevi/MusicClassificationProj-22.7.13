@@ -1,0 +1,18 @@
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\BPM.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\CutStyle.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\DickControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\PlayButtonStyle.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\Simple Styles.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\Volume_and_BalanceControl.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\BPM.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\DickControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\DockPanel.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\MainWindow.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\SongDataControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\SongsFileBrowser.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\Volume_and_BalanceControl.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\App.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\MusicClassificationGui_Content.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\MusicClassificationGui_MarkupCompile.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\GUI\WpfApplication3\WpfApplication3\obj\Release\MusicClassificationGui_MarkupCompile.lref

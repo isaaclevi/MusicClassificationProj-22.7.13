@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAudioTest", "NAudioTest\NAudioTest.csproj", "{5697B93B-8FE9-4949-85B9-4AA1202D3D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicClassificationAlgotihm", "MusicClassificationAlgotihm\MusicClassificationAlgotihm.csproj", "{966C023B-DD79-4DEF-BA11-28FA58D7935B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicClassificationBL", "MusicClassificationBL\MusicClassificationBL.csproj", "{0684D058-4D00-4002-BF14-DB610995C07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicClassificationConsole", "MusicClassificationConsole\MusicClassificationConsole.csproj", "{10A319E9-349F-4A92-8270-0E28C2A2D747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicClassificationGui", "GUI\WpfApplication3\WpfApplication3\MusicClassificationGui.csproj", "{9CB7A71C-F5CD-45F4-AFBF-23CF5F9113B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dummy", "dummy\dummy.csproj", "{667c33e7-b564-4943-975c-012ab64bd0aa}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5697B93B-8FE9-4949-85B9-4AA1202D3D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5697B93B-8FE9-4949-85B9-4AA1202D3D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5697B93B-8FE9-4949-85B9-4AA1202D3D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5697B93B-8FE9-4949-85B9-4AA1202D3D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966C023B-DD79-4DEF-BA11-28FA58D7935B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966C023B-DD79-4DEF-BA11-28FA58D7935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966C023B-DD79-4DEF-BA11-28FA58D7935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966C023B-DD79-4DEF-BA11-28FA58D7935B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0684D058-4D00-4002-BF14-DB610995C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0684D058-4D00-4002-BF14-DB610995C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0684D058-4D00-4002-BF14-DB610995C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0684D058-4D00-4002-BF14-DB610995C07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A319E9-349F-4A92-8270-0E28C2A2D747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A319E9-349F-4A92-8270-0E28C2A2D747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A319E9-349F-4A92-8270-0E28C2A2D747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A319E9-349F-4A92-8270-0E28C2A2D747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB7A71C-F5CD-45F4-AFBF-23CF5F9113B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB7A71C-F5CD-45F4-AFBF-23CF5F9113B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB7A71C-F5CD-45F4-AFBF-23CF5F9113B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB7A71C-F5CD-45F4-AFBF-23CF5F9113B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667C33E7-B564-4943-975C-012AB64BD0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667C33E7-B564-4943-975C-012AB64BD0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667C33E7-B564-4943-975C-012AB64BD0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667C33E7-B564-4943-975C-012AB64BD0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Users\leviis\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Users\leviis\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\leviis.CS\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\leviis.CS\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\leviis.CS\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Users\leviis.CS\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Users\leviis.CS\Desktop\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll.CodeAnalysisLog.xml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll.lastcodeanalysissucceeded
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb

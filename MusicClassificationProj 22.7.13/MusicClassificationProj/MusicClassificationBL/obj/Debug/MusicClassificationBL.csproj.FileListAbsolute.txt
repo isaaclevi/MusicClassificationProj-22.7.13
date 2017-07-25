@@ -1,0 +1,26 @@
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationBL.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationBL.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\NAudio.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\NAudio.xml
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.csprojResolveAssemblyReference.cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationBL.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationBL.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\NAudio.xml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationBL.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationBL.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationAlgotihm.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\MusicClassificationAlgotihm.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\bin\Debug\NAudio.xml
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.dll
+D:\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationBL\obj\Debug\MusicClassificationBL.pdb

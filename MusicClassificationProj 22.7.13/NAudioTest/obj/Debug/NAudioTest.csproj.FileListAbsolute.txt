@@ -1,0 +1,81 @@
+c:\users\arad\documents\visual studio 2012\Projects\NAudioTest\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.xml
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.xml
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\lironel\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.xml
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\lironel\Desktop\New folder\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.xml
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\liri\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+D:\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\leviis\Desktop\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\bin\Debug\NAudioTest.exe.config
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\bin\Debug\NAudioTest.exe
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\bin\Debug\NAudioTest.pdb
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\bin\Debug\NAudioTest.exe.CodeAnalysisLog.xml
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\bin\Debug\NAudioTest.exe.lastcodeanalysissucceeded
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\obj\Debug\NAudioTest.exe
+D:\Dropbox\FinalProject\MusicClassificationProj 22.7.13\MusicClassificationProj 22.7.13\NAudioTest\obj\Debug\NAudioTest.pdb

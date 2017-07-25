@@ -1,0 +1,10 @@
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb

@@ -1,0 +1,16 @@
+c:\users\arad\documents\visual studio 2012\Projects\NAudioTest\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\bin\Debug\NAudio.xml
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csprojResolveAssemblyReference.cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.Cache
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb
+C:\Users\arad\Documents\Visual Studio 2012\Projects\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\NAudioTest\obj\Debug\NAudioTest.pdb

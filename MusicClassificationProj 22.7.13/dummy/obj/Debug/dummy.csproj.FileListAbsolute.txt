@@ -1,0 +1,11 @@
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\bin\Debug\dummy.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\bin\Debug\dummy.pdb
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\MainWindow.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\Simple Styles.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\App.baml
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\App.g.cs
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\dummy_MarkupCompile.cache
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\dummy.g.resources
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\dummy.exe
+C:\Dropbox\Dropbox\FinalProject\MusicClassificationProj\dummy\obj\Debug\dummy.pdb

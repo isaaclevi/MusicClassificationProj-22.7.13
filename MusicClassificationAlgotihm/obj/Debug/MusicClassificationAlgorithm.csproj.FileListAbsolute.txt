@@ -1,0 +1,5 @@
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\bin\Debug\MusicClassificationAlgotihm.pdb
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.dll
+C:\Users\isaac.isaac-idea-PC\Desktop\MusicClassificationProj 22.7.13\MusicClassificationAlgotihm\obj\Debug\MusicClassificationAlgotihm.pdb
